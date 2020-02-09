@@ -1,9 +1,8 @@
 package proxy.dbrote;
 
 public class OrderDao {
-
-    public int insert(Order order){
-        System.out.println("OrderDao创建成功");
+    int insert(Order order){
+        System.out.println("创建订单成功");
         return 1;
     }
 }

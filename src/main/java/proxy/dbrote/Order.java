@@ -29,4 +29,13 @@ public class Order {
     public void setId(String id) {
         this.id = id;
     }
+
+    @Override
+    public String toString() {
+        return "Order{" +
+                "orderInfo=" + orderInfo +
+                ", createTime=" + createTime +
+                ", id='" + id + '\'' +
+                '}';
+    }
 }
