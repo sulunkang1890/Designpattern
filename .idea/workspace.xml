@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52a049b4-482b-4982-9e8d-6bdd5efe0f20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slk/payfactory/AiliPayFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slk/payfactory/AlipayAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slk/payfactory/IAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slk/payfactory/PayFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slk/payfactory/PayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slk/payfactory/UnionAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slk/payfactory/UnionPayFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slk/payfactory/WechatAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slk/payfactory/WechatPayFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/slk/payfactory/PayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/slk/payfactory/PayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/slk/payfactory/PayTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/slk/payfactory/PayTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -43,19 +36,6 @@
                 <element signature="e#128#129#0" expanded="true" />
                 <element signature="e#153#154#0" expanded="true" />
                 <element signature="e#189#190#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/payfactory/WechatAccount.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#100#101#0" expanded="true" />
-                <element signature="e#136#137#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -96,7 +76,49 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/payfactory/A.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+              <folding>
+                <element signature="e#138#139#0" expanded="true" />
+                <element signature="e#162#163#0" expanded="true" />
+                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#222#223#0" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#274#275#0" expanded="true" />
+                <element signature="e#308#309#0" expanded="true" />
+                <element signature="e#334#335#0" expanded="true" />
+                <element signature="e#362#363#0" expanded="true" />
+                <element signature="e#386#387#0" expanded="true" />
+                <element signature="e#420#421#0" expanded="true" />
+                <element signature="e#446#447#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/payfactory/B.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="137">
+              <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+              <folding>
+                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#140#141#0" expanded="true" />
+                <element signature="e#174#175#0" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#228#229#0" expanded="true" />
+                <element signature="e#252#253#0" expanded="true" />
+                <element signature="e#286#287#0" expanded="true" />
+                <element signature="e#312#313#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="uml://JAVA/com.slk.payfactory.AiliPayFactory">
           <provider selected="true" editor-type-id="UmlEditorProvider">
             <state>
@@ -104,32 +126,32 @@
               <OriginalElement>com.slk.payfactory.AiliPayFactory</OriginalElement>
               <nodes>
                 <node x="215.0" y="0.0">com.slk.payfactory.PayFactory</node>
-                <node x="149.5" y="201.0">com.slk.payfactory.IAccount</node>
+                <node x="158.0" y="201.0">com.slk.payfactory.IAccount</node>
                 <node x="0.0" y="402.0">com.slk.payfactory.PayTest</node>
-                <node x="215.0" y="103.0">com.slk.payfactory.UnionPayFactory</node>
+                <node x="0.0" y="103.0">com.slk.payfactory.UnionPayFactory</node>
                 <node x="430.0" y="103.0">com.slk.payfactory.WechatPayFactory</node>
-                <node x="297.0" y="304.0">com.slk.payfactory.WechatAccount</node>
-                <node x="0.0" y="103.0">com.slk.payfactory.AiliPayFactory</node>
-                <node x="148.0" y="304.0">com.slk.payfactory.AlipayAccount</node>
-                <node x="0.0" y="304.0">com.slk.payfactory.UnionAccount</node>
+                <node x="0.0" y="304.0">com.slk.payfactory.WechatAccount</node>
+                <node x="215.0" y="103.0">com.slk.payfactory.AiliPayFactory</node>
+                <node x="305.0" y="304.0">com.slk.payfactory.AlipayAccount</node>
+                <node x="157.0" y="304.0">com.slk.payfactory.UnionAccount</node>
               </nodes>
               <notes />
               <edges>
                 <edge source="com.slk.payfactory.UnionPayFactory" target="com.slk.payfactory.PayFactory">
                   <point x="0.0" y="-26.5" />
-                  <point x="0.0" y="26.5" />
+                  <point x="97.5" y="78.0" />
+                  <point x="247.5" y="78.0" />
+                  <point x="-65.0" y="26.5" />
                 </edge>
                 <edge source="com.slk.payfactory.UnionAccount" target="com.slk.payfactory.IAccount">
                   <point x="0.0" y="-26.5" />
-                  <point x="64.0" y="279.0" />
-                  <point x="170.5" y="279.0" />
-                  <point x="-42.0" y="26.5" />
+                  <point x="0.0" y="26.5" />
                 </edge>
                 <edge source="com.slk.payfactory.WechatAccount" target="com.slk.payfactory.IAccount">
                   <point x="0.0" y="-26.5" />
-                  <point x="365.5" y="279.0" />
-                  <point x="254.5" y="279.0" />
-                  <point x="42.0" y="26.5" />
+                  <point x="68.5" y="279.0" />
+                  <point x="179.0" y="279.0" />
+                  <point x="-42.0" y="26.5" />
                 </edge>
                 <edge source="com.slk.payfactory.WechatPayFactory" target="com.slk.payfactory.PayFactory">
                   <point x="0.0" y="-26.5" />
@@ -139,17 +161,19 @@
                 </edge>
                 <edge source="com.slk.payfactory.AlipayAccount" target="com.slk.payfactory.IAccount">
                   <point x="0.0" y="-26.5" />
-                  <point x="0.0" y="26.5" />
+                  <point x="369.5" y="279.0" />
+                  <point x="263.0" y="279.0" />
+                  <point x="42.0" y="26.5" />
                 </edge>
                 <edge source="com.slk.payfactory.AiliPayFactory" target="com.slk.payfactory.PayFactory">
                   <point x="0.0" y="-26.5" />
-                  <point x="97.5" y="78.0" />
-                  <point x="247.5" y="78.0" />
-                  <point x="-65.0" y="26.5" />
+                  <point x="0.0" y="26.5" />
                 </edge>
               </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="360.0" y="202.5" />
-              <SelectedNodes />
+              <settings layout="Hierarchic Group" zoom="1.0" x="73.00000000000006" y="220.0" />
+              <SelectedNodes>
+                <node>com.slk.payfactory.AiliPayFactory</node>
+              </SelectedNodes>
               <Categories>
                 <Category>Methods</Category>
               </Categories>
@@ -159,37 +183,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/payfactory/UnionPayFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#115#116#0" expanded="true" />
-                <element signature="e#156#157#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/payfactory/WechatPayFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#117#118#0" expanded="true" />
-                <element signature="e#158#159#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/payfactory/PayTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="109">
+              <caret line="19" column="41" lean-forward="true" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -219,6 +226,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/slk/payfactory/AiliPayFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/slk/payfactory/UnionPayFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/slk/payfactory/WechatPayFactory.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/slk/payfactory/A.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/slk/payfactory/B.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/slk/payfactory/PayTest.java" />
       </list>
     </option>
@@ -295,6 +305,12 @@
               <item name="slk" type="462c0819:PsiDirectoryNode" />
               <item name="payfactory" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Designpattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Designpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -306,8 +322,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582640223250" />
-    <property name="last_opened_file_path" value="E:/project/consumer_freeform_demo" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582862872413" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -362,30 +378,31 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4821000" />
+    <option name="totallyTimeSpent" value="13067000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20272315" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30711043" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Messages" weight="0.3295082" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.021311475" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3672131" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.4180328" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.2442623" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -403,9 +420,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/lang/reflect/InvocationHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -517,40 +531,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/payfactory/PayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/payfactory/IAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/payfactory/AlipayAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#128#129#0" expanded="true" />
-            <element signature="e#153#154#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/payfactory/PayFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/payfactory/WechatAccount.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -595,6 +575,96 @@
         </state>
       </provider>
     </entry>
+    <entry file="uml://JAVA/com.slk.payfactory.AiliPayFactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.slk.payfactory.AiliPayFactory</OriginalElement>
+          <nodes>
+            <node x="215.0" y="0.0">com.slk.payfactory.PayFactory</node>
+            <node x="158.0" y="201.0">com.slk.payfactory.IAccount</node>
+            <node x="0.0" y="402.0">com.slk.payfactory.PayTest</node>
+            <node x="0.0" y="103.0">com.slk.payfactory.UnionPayFactory</node>
+            <node x="430.0" y="103.0">com.slk.payfactory.WechatPayFactory</node>
+            <node x="0.0" y="304.0">com.slk.payfactory.WechatAccount</node>
+            <node x="215.0" y="103.0">com.slk.payfactory.AiliPayFactory</node>
+            <node x="305.0" y="304.0">com.slk.payfactory.AlipayAccount</node>
+            <node x="157.0" y="304.0">com.slk.payfactory.UnionAccount</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.slk.payfactory.UnionPayFactory" target="com.slk.payfactory.PayFactory">
+              <point x="0.0" y="-26.5" />
+              <point x="97.5" y="78.0" />
+              <point x="247.5" y="78.0" />
+              <point x="-65.0" y="26.5" />
+            </edge>
+            <edge source="com.slk.payfactory.UnionAccount" target="com.slk.payfactory.IAccount">
+              <point x="0.0" y="-26.5" />
+              <point x="0.0" y="26.5" />
+            </edge>
+            <edge source="com.slk.payfactory.WechatAccount" target="com.slk.payfactory.IAccount">
+              <point x="0.0" y="-26.5" />
+              <point x="68.5" y="279.0" />
+              <point x="179.0" y="279.0" />
+              <point x="-42.0" y="26.5" />
+            </edge>
+            <edge source="com.slk.payfactory.WechatPayFactory" target="com.slk.payfactory.PayFactory">
+              <point x="0.0" y="-26.5" />
+              <point x="527.5" y="78.0" />
+              <point x="377.5" y="78.0" />
+              <point x="65.0" y="26.5" />
+            </edge>
+            <edge source="com.slk.payfactory.AlipayAccount" target="com.slk.payfactory.IAccount">
+              <point x="0.0" y="-26.5" />
+              <point x="369.5" y="279.0" />
+              <point x="263.0" y="279.0" />
+              <point x="42.0" y="26.5" />
+            </edge>
+            <edge source="com.slk.payfactory.AiliPayFactory" target="com.slk.payfactory.PayFactory">
+              <point x="0.0" y="-26.5" />
+              <point x="0.0" y="26.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="73.00000000000006" y="220.0" />
+          <SelectedNodes>
+            <node>com.slk.payfactory.AiliPayFactory</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/payfactory/PayFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/payfactory/AlipayAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/payfactory/IAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/payfactory/AiliPayFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -606,64 +676,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/com.slk.payfactory.AiliPayFactory">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.slk.payfactory.AiliPayFactory</OriginalElement>
-          <nodes>
-            <node x="215.0" y="0.0">com.slk.payfactory.PayFactory</node>
-            <node x="149.5" y="201.0">com.slk.payfactory.IAccount</node>
-            <node x="0.0" y="402.0">com.slk.payfactory.PayTest</node>
-            <node x="215.0" y="103.0">com.slk.payfactory.UnionPayFactory</node>
-            <node x="430.0" y="103.0">com.slk.payfactory.WechatPayFactory</node>
-            <node x="297.0" y="304.0">com.slk.payfactory.WechatAccount</node>
-            <node x="0.0" y="103.0">com.slk.payfactory.AiliPayFactory</node>
-            <node x="148.0" y="304.0">com.slk.payfactory.AlipayAccount</node>
-            <node x="0.0" y="304.0">com.slk.payfactory.UnionAccount</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.slk.payfactory.UnionPayFactory" target="com.slk.payfactory.PayFactory">
-              <point x="0.0" y="-26.5" />
-              <point x="0.0" y="26.5" />
-            </edge>
-            <edge source="com.slk.payfactory.UnionAccount" target="com.slk.payfactory.IAccount">
-              <point x="0.0" y="-26.5" />
-              <point x="64.0" y="279.0" />
-              <point x="170.5" y="279.0" />
-              <point x="-42.0" y="26.5" />
-            </edge>
-            <edge source="com.slk.payfactory.WechatAccount" target="com.slk.payfactory.IAccount">
-              <point x="0.0" y="-26.5" />
-              <point x="365.5" y="279.0" />
-              <point x="254.5" y="279.0" />
-              <point x="42.0" y="26.5" />
-            </edge>
-            <edge source="com.slk.payfactory.WechatPayFactory" target="com.slk.payfactory.PayFactory">
-              <point x="0.0" y="-26.5" />
-              <point x="527.5" y="78.0" />
-              <point x="377.5" y="78.0" />
-              <point x="65.0" y="26.5" />
-            </edge>
-            <edge source="com.slk.payfactory.AlipayAccount" target="com.slk.payfactory.IAccount">
-              <point x="0.0" y="-26.5" />
-              <point x="0.0" y="26.5" />
-            </edge>
-            <edge source="com.slk.payfactory.AiliPayFactory" target="com.slk.payfactory.PayFactory">
-              <point x="0.0" y="-26.5" />
-              <point x="97.5" y="78.0" />
-              <point x="247.5" y="78.0" />
-              <point x="-65.0" y="26.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="360.0" y="202.5" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/payfactory/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+          <folding>
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/payfactory/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/payfactory/PayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="19" column="41" lean-forward="true" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
         </state>
       </provider>
     </entry>
