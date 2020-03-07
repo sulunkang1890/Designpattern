@@ -2,27 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52a049b4-482b-4982-9e8d-6bdd5efe0f20" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slk/gpproxy/Iproxy/GPClassLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slk/gpproxy/Iproxy/GPInvocationHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slk/gpproxy/Iproxy/GPProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slk/gpproxy/client/ChengduHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slk/gpproxy/client/ChongqingHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slk/gpproxy/client/IHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slk/gpproxy/client/JDKtest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slk/gpproxy/client/JdkBeikeProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slk/proxy/ChengduHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slk/proxy/ChongqingHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slk/proxy/IHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slk/proxy/JDKtest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/slk/proxy/JdkBeikeProxy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/slk/single/register/ContainerSingleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/slk/single/register/ContainerSingletonTwo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/slk/single/register/EnumSignle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/slk/single/test/EnumSignleTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/slk/single/register/EnumSignle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/slk/single/test/EnumSignleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Designpattern.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/slk/gpproxy/client/ChengduHouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/slk/gpproxy/client/ChengduHouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/slk/gpproxy/client/ChongqingHouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/slk/gpproxy/client/ChongqingHouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/slk/gpproxy/client/IHouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/slk/gpproxy/client/IHouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/slk/gpproxy/client/JDKtest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/slk/gpproxy/client/JDKtest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/slk/gpproxy/client/ChengduHouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/slk/gpproxy/client/ChengduHouse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/slk/gpproxy/client/ChongqingHouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/slk/gpproxy/client/ChongqingHouse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/slk/gpproxy/client/IHouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/slk/gpproxy/client/IHouse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/slk/gpproxy/client/JDKtest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/slk/gpproxy/client/JDKtest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/slk/single/register/EnumSignle.jad" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/Designpattern.kotlin_module" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -35,10 +26,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/gpproxy/Iproxy/GPClassLoader.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/gpproxy/client/JDKtest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="275">
+              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/gpproxy/client/ChengduHouse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/gpproxy/Iproxy/$Proxy0.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -47,40 +56,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/lang/ClassLoader.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/gpproxy/client/IHouse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="177" column="22" selection-start-line="177" selection-start-column="22" selection-end-line="177" selection-end-column="22" />
+            <state relative-caret-position="75">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/gpproxy/client/JDKtest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/gpproxy/client/ChongqingHouse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="61">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="100">
+              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/proxy/JDKtest.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/io/FileOutputStream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="269" selection-start-line="269" selection-end-line="269" />
+            <state relative-caret-position="272">
+              <caret line="30" column="34" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -88,17 +85,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/gpproxy/client/JdkBeikeProxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
+            <state relative-caret-position="275">
               <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/lang/reflect/Proxy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="702" column="25" selection-start-line="702" selection-start-column="25" selection-end-line="702" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -115,24 +103,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/gpproxy/Iproxy/GPProxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="39">
-              <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="35" selection-end-column="23" />
+            <state relative-caret-position="525">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#4257#4271#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/proxy/JdkBeikeProxy.java">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="1875">
+              <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -173,9 +157,14 @@
         <option value="$PROJECT_DIR$/src/main/java/com/slk/gpproxy/Iproxy/GPClassLoder.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/slk/gpproxy/Iproxy/GPClassLoader.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/slk/gpproxy/client/JdkBeikeProxy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/slk/gpproxy/client/JDKtest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/slk/gpproxy/Iproxy/GPProxy.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/slk/proxy/JDKtest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/slk/gpproxy/client/ChengduHouse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/slk/gpproxy/client/A.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/slk/gpproxy/client/$Proxy0.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/slk/gpproxy/client/IHouse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/slk/gpproxy/client/JDKtest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/slk/gpproxy/client/ChongqingHouse.java" />
       </list>
     </option>
   </component>
@@ -208,7 +197,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -300,20 +289,7 @@
               <item name="Designpattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="Designpattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="slk" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Designpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Designpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -325,8 +301,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583322480210" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gupaoedu-vip-pattern-proxy" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583509974236" />
+    <property name="last_opened_file_path" value="E:/project/consumer_freeform_demo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -352,7 +328,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JDKtest">
+  <component name="RunManager" selected="Application.JDKtest (1)">
     <configuration name="JDKtest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.slk.gpproxy.client.JDKtest" />
       <module name="Designpattern" />
@@ -397,8 +373,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JDKtest" />
         <item itemvalue="Application.JDKtest (1)" />
+        <item itemvalue="Application.JDKtest" />
       </list>
     </recent_temporary>
   </component>
@@ -415,7 +391,11 @@
       <workItem from="1580980605243" duration="1284000" />
       <workItem from="1582959396779" duration="3954000" />
       <workItem from="1582965937889" duration="5407000" />
-      <workItem from="1583243183281" duration="14223000" />
+      <workItem from="1583243183281" duration="16299000" />
+      <workItem from="1583375095712" duration="692000" />
+      <workItem from="1583378806297" duration="598000" />
+      <workItem from="1583410189786" duration="1194000" />
+      <workItem from="1583477009725" duration="3586000" />
     </task>
     <servers />
   </component>
@@ -428,7 +408,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24724000" />
+    <option name="totallyTimeSpent" value="32870000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -440,10 +420,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.101472996" visible="true" weight="0.2375189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.101472996" visible="true" weight="0.24357034" />
       <window_info id="Structure" order="1" sideWeight="0.89836067" side_tool="true" weight="0.25567323" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -452,12 +432,12 @@
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.09836066" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2672131" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.1590164" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2672131" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.18852459" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49924356" weight="0.42786884" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49924356" weight="0.28196722" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50075644" side_tool="true" weight="0.4147541" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.3295082" />
@@ -505,6 +485,24 @@
           <properties />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/slk/gpproxy/Iproxy/GPProxy.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/slk/gpproxy/Iproxy/GPProxy.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/slk/gpproxy/Iproxy/GPProxy.java</url>
+          <line>78</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -528,13 +526,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/com/slk/single/register/EnumSignle.jad">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/com/slk/single/register/EnumSignle.jad" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2000">
@@ -556,50 +548,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/slk/single/test/EnumSignleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="8" column="29" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="71" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/single/register/ContainerSingletonTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/single/register/ContainerSingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/single/register/EnumSignle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-          <folding>
-            <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/slk/single/test/EnumSignleTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/single/register/ContainerSingletonTwo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/single/register/ContainerSingleton.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/single/register/EnumSignle.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/lang/Class.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -654,15 +606,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/gpproxy/client/ChengduHouse.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/gpproxy/client/IHouse.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/gpproxy/client/ChongqingHouse.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/proxy/JdkBeikeProxy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="107">
@@ -689,18 +632,42 @@
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/lang/ClassLoader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
+        <state relative-caret-position="3000">
           <caret line="177" column="22" selection-start-line="177" selection-start-column="22" selection-end-line="177" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/proxy/JDKtest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/gpproxy/Iproxy/GPClassLoader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="575">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/gpproxy/client/ChengduHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/gpproxy/client/JdkBeikeProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
@@ -711,38 +678,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/gpproxy/client/JDKtest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/gpproxy/client/JdkBeikeProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/gpproxy/Iproxy/GPProxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="35" selection-end-column="23" />
+        <state relative-caret-position="525">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#4257#4271#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/proxy/JDKtest.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        <state relative-caret-position="1875">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/gpproxy/Iproxy/$Proxy0.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/gpproxy/client/JDKtest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/gpproxy/client/IHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/slk/gpproxy/client/ChongqingHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="30" column="34" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="34" />
         </state>
       </provider>
     </entry>

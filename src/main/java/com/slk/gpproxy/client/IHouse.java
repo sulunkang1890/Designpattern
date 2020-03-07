@@ -1,5 +1,7 @@
 package com.slk.gpproxy.client;
 
 public interface IHouse {
-    void saleHouse();
+
+
+    void saleHouse(String name);
 }

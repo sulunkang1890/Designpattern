@@ -9,10 +9,12 @@ import java.io.IOException;
 
 public class JDKtest {
     public static void main(String[] args) {
-        JdkBeikeProxy proxy=new JdkBeikeProxy();
-        IHouse house= (IHouse) proxy.getInstance(new ChongqingHouse());
-        house.saleHouse();
+//        JdkBeikeProxy proxy=new JdkBeikeProxy();
+//        IHouse house= (IHouse) proxy.getInstance(new ChongqingHouse());
+//        house.saleHouse("hello world");
+        ChongqingHouse b=new ChongqingHouse();
 
+        System.out.println(b);
 
     }
 }
